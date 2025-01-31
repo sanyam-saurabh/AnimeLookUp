@@ -1,6 +1,5 @@
 {
   "name": "otakudb",
-  "homepage": " https://sanyam-saurabh.github.io/OtakuSearch/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
